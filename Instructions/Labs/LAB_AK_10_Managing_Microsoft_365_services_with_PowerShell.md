@@ -1,4 +1,4 @@
----
+---o
 lab:
     title: 'Lab: Managing Microsoft 365 with PowerShell'
     type: 'Answer Key'
